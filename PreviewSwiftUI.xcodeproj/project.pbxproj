@@ -11,6 +11,8 @@
 		23AB23352A1B80A600DCA38E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23AB23342A1B80A600DCA38E /* ContentView.swift */; };
 		23AB23372A1B80A900DCA38E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23AB23362A1B80A900DCA38E /* Assets.xcassets */; };
 		23AB233A2A1B80A900DCA38E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23AB23392A1B80A900DCA38E /* Preview Assets.xcassets */; };
+		23AB23412A1B82F600DCA38E /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23AB23402A1B82F600DCA38E /* ListRowView.swift */; };
+		23AB23432A1B878300DCA38E /* Şehir.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23AB23422A1B878300DCA38E /* Şehir.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		23AB23342A1B80A600DCA38E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		23AB23362A1B80A900DCA38E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23AB23392A1B80A900DCA38E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		23AB23402A1B82F600DCA38E /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
+		23AB23422A1B878300DCA38E /* Şehir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Şehir.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				23AB23342A1B80A600DCA38E /* ContentView.swift */,
 				23AB23362A1B80A900DCA38E /* Assets.xcassets */,
 				23AB23382A1B80A900DCA38E /* Preview Content */,
+				23AB23402A1B82F600DCA38E /* ListRowView.swift */,
+				23AB23422A1B878300DCA38E /* Şehir.swift */,
 			);
 			path = PreviewSwiftUI;
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				23AB23352A1B80A600DCA38E /* ContentView.swift in Sources */,
+				23AB23432A1B878300DCA38E /* Şehir.swift in Sources */,
 				23AB23332A1B80A600DCA38E /* PreviewSwiftUIApp.swift in Sources */,
+				23AB23412A1B82F600DCA38E /* ListRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
